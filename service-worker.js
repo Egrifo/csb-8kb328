@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://egrifo.github.io/csb-8kb328/precache-manifest.c40661ddcb6138f02b1bdceb6235412c.js"
+  "https://egrifo.github.io/csb-8kb328/precache-manifest.666f3a429441f3fb499d7273568a8737.js"
 );
 
 self.addEventListener('message', (event) => {
